@@ -1,0 +1,128 @@
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Control.Draggable.dll
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.dll
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.xml
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Iletisim.resources
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Kayit.resources
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.KullaniciSayfasi.resources
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Login.resources
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Oyun.resources
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.SifremiUnuttum.resources
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\kemal\Desktop\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Iletisim.resources
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Kayit.resources
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.KullaniciSayfasi.resources
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Login.resources
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Oyun.resources
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.SifremiUnuttum.resources
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Control.Draggable.dll
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.dll
+C:\Users\kemal\Desktop\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.xml
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Control.Draggable.dll
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.dll
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.xml
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Iletisim.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Kayit.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.KullaniciSayfasi.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Login.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Oyun.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.SifremiUnuttum.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Eren Şen\OneDrive\Masaüstü\eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Control.Draggable.dll
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.dll
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.xml
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Iletisim.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Kayit.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.KullaniciSayfasi.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Login.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Oyun.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.SifremiUnuttum.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Control.Draggable.dll
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.dll
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.xml
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Iletisim.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Kayit.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.KullaniciSayfasi.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Login.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Oyun.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.SifremiUnuttum.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\guncelyedek\nesne\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\Control.Draggable.dll
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.dll
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.xml
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Iletisim.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Kayit.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.KullaniciSayfasi.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Login.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Oyun.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.SifremiUnuttum.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Eren Şen\OneDrive\Masaüstü\nesne proje eren\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\Control.Draggable.dll
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.dll
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\bin\Debug\Dapper.xml
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Iletisim.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Kayit.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.KullaniciSayfasi.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Login.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Oyun.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Properties.Resources.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.SifremiUnuttum.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Admingiris.resources
+C:\Users\Eren Şen\OneDrive\Masaüstü\NesneGörsel\görsel\görsel\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.adminpanel.resources
